@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context=".MainActivity">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="true"
+        app:contentPadding="8dp"
+        android:layout_marginBottom="60dp"
+        android:scrollbars="vertical" />
+
+
+        <Button android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:textStyle="bold"
+            android:id="@+id/buttonAdd"
+            android:textSize="20dp"
+            android:background="@color/colorAccent"
+            android:textColor="@android:color/background_light"
+            android:layout_alignParentBottom="true"
+            android:text="ADD"
+            />
+
+</RelativeLayout>
