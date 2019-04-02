@@ -2,9 +2,9 @@
 
 This is a simple project to make CRUD functions on android using SugarORM and displaying data in a RecyclerView 
 
-<img src="page1.jpeg" width="200" alt="Crud example"></a>
-<img src="page2.jpeg" width="200" alt="Crud example"></a>
-<img src="page3.jpeg" width="200" alt="Crud example"></a>
+<img src="page1.jpeg" width="200" alt="Crud example"></img>
+<img src="page2.jpeg" width="200" alt="Crud example"></img>
+<img src="page3.jpeg" width="200" alt="Crud example"></img>
 
 
 #### Libs
